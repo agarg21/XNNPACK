@@ -3,6 +3,7 @@ name: Build WebAssembly
 on:
   pull_request:
   push:
+    branches: [measure/base]
   workflow_dispatch:
 
 permissions:
