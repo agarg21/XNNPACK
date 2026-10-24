@@ -90,3 +90,4 @@ bool xnn_is_f16_native_supported(void) {
          xnn_is_f16_supported_natively(hardware_config);
 }
 
+// measure m100 b3
